@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohan 👋
 
 ## Bio
-- :monkey: I’m currently working as a Data analyst at [sirpi][website]!
+- :monkey: I’m currently working as a Data analyst at [sirpi][sirpi]!
 - :pencil2: Have a master's in Biotechnology 
 - 🌱 I’m currently learning everything 🤣
 - 🔭 I’m looking for an interesting PhD to do Data Science in Molecular Biology
