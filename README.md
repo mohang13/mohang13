@@ -7,10 +7,7 @@
 - 🔭 I’m looking for an interesting PhD to do Data Science in Molecular Biology
 - 🥅 My vacations: Board games, cricket, football and Formula 1
 
-### Connect with me:
 
-[<img align="left" alt="mohang13 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="mohang13 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
