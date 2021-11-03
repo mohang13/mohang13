@@ -1,7 +1,7 @@
 ### Hi there, I'm Mohan 👋
 
 ## Bio
-- :monkey: I’m currently working as a Junior Research Fellow at IBAB, Bengaluru studying epigenetics in **Plasmodium falciparum**
+- :monkey: I’m currently working as a Junior Research Fellow at IBAB, Bengaluru studying epigenetics in *Plasmodium falciparum*
 - :pencil2: Have a master's in Biotechnology 
 - 🌱 I’m currently learning everything 🤣
 - 🔭 I’m looking for an interesting PhD to do Data Science in Molecular Biology
